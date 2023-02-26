@@ -48,7 +48,7 @@ Ubuntu 22.04
   
  
  Появляется результат в виде хэшей, они нам пригодятся.
-Открываем транзу по transaction hash на [starkscan](https://starkscan.co/) и ждём когда статус перейдет в Accepted on L2, после этого деплоим:
+Открываем транзу по transaction hash на starkscan и ждём когда статус перейдет в Accepted on L2, после этого деплоим:
 
   
   ```
@@ -57,7 +57,7 @@ Ubuntu 22.04
 
 
 Снова появляются хэши.
-Отслеживаем транзу на [starkscan](https://starkscan.co/) , проверяем contract address
+Отслеживаем транзу на starkscan , проверяем contract address
 
 
 The End
