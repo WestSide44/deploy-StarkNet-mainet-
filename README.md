@@ -19,11 +19,6 @@ Ubuntu 22.04
   
   
   ```
-  apt update 
-  ```
-  
-  
-  ```
   protostar init  
   ```
   
