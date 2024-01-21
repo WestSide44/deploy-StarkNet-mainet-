@@ -60,5 +60,5 @@ Ubuntu 22.04
 Отслеживаем транзу на [starkscan](https://starkscan.co/) , проверяем contract address
 
 
-The End
+Вуаля. конец
 
